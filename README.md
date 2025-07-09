@@ -2,7 +2,7 @@
 
 
 
-&nbsp;	Este repositório contém 3 exercícios introdutórios em Python, com foco em estruturas de repetição (for, while) e manipulação de entrada do 	usuário. O objetivo é demonstrar domínio da sintaxe básica da linguagem, boa organização e execução real em um ambiente Windows.
+ 	Este repositório contém 3 exercícios introdutórios em Python, com foco em estruturas de repetição (for, while) e manipulação de entrada do 	usuário. O objetivo é demonstrar domínio da sintaxe básica da linguagem, boa organização e execução real em um ambiente Windows.
 
 
 
@@ -10,43 +10,43 @@
 
 
 
-&nbsp;	exercicios-python-basico/
+ 	exercicios-python-basico/
 
-&nbsp;		├── frutas.py
+ 		├── frutas.py
 
-&nbsp;		├── contador.py
+ 		├── contador.py
 
-&nbsp;		├── letras.py
+ 		├── letras.py
 
-&nbsp;		├── imagens/
+ 		├── imagens/
 
-&nbsp;		│ ├── execucao\_frutas.png
+ 		│ ├── execucao\_frutas.png
 
-&nbsp;		│ ├── execucao\_contador.png
+ 		│ ├── execucao\_contador.png
 
-&nbsp;		│ └── execucao\_letras.png
+ 		│ └── execucao\_letras.png
 
-&nbsp;		└── README.md
-
-
+ 		└── README.md
 
 
 
-\#  1. frutas.py  
-
-&nbsp;	Objetivo: Criar uma lista com 3 frutas e imprimir uma frase personalizada para cada uma usando for.
-
-&nbsp;	Código
 
 
+\#  1. frutas.py
 
-&nbsp;	frutas = \["Laranja", "Banana", "Morango"]
+ 	Objetivo: Criar uma lista com 3 frutas e imprimir uma frase personalizada para cada uma usando for.
 
-&nbsp;		
+ 	Código
 
-&nbsp;	for frutas in frutas:
 
-&nbsp;   		print(f"Eu gosto de {frutas}")
+
+ 	frutas = \["Laranja", "Banana", "Morango"]
+
+ 
+
+ 	for frutas in frutas:
+
+    		print(f"Eu gosto de {frutas}")
 
 
 
@@ -56,23 +56,23 @@
 
 
 
-!\[Execução frutas](imagens/frutas.png)
+!\[Execução frutas](imagens/frutas)
 
 
 
 \# 2. contador.py
 
-&nbsp;	Objetivo: Contar de 1 a 10 usando while.
+ 	Objetivo: Contar de 1 a 10 usando while.
 
 
 
-&nbsp;	numero = 1
+ 	numero = 1
 
-&nbsp;	while numero <= 10:
+ 	while numero <= 10:
 
-&nbsp;  		 print(numero)
+   		 print(numero)
 
-&nbsp;   		numero += 1
+    		numero += 1
 
 
 
@@ -80,21 +80,21 @@ Execução real:
 
 
 
-!\[Execução frutas](imagens/contador.png)
+!\[Execução frutas](imagens/contador)
 
 
 
 \# 3. letras.py
 
-&nbsp;	Objetivo: Receber uma palavra do usuário e imprimir letra por letra com for.
+ 	Objetivo: Receber uma palavra do usuário e imprimir letra por letra com for.
 
 
 
-&nbsp;	palavra = input("Digite uma palavra: ")
+ 	palavra = input("Digite uma palavra: ")
 
-&nbsp;	for letra in palavra:
+ 	for letra in palavra:
 
-&nbsp;   		print(letra)
+    		print(letra)
 
 
 
@@ -102,41 +102,39 @@ Execução real:
 
 
 
-!\[Execução frutas](imagens/letras.png)
+!\[Execução frutas](imagens/letras)
 
 
 
 \# Tecnologias e Ambiente
 
-&nbsp;	Python 3 (executado no terminal do Windows)
+ 	Python 3 (executado no terminal do Windows)
 
-&nbsp;	VS Code como editor
+ 	VS Code como editor
 
-&nbsp;	Git + GitHub para versionamento
+ 	Git + GitHub para versionamento
 
-&nbsp;	Prints salvos em pasta imagens/
+ 	Prints salvos em pasta imagens/
 
 
 
 \# Por que este projeto está aqui?
 
-&nbsp;	Embora simples, ele mostra:
+ 	Embora simples, ele mostra:
 
-&nbsp;	Entendimento da sintaxe básica do Python
+ 	Entendimento da sintaxe básica do Python
 
-&nbsp;	Execução prática real, não apenas teoria
+ 	Execução prática real, não apenas teoria
 
-&nbsp;	Organização de projeto com estrutura clara
+ 	Organização de projeto com estrutura clara
 
-&nbsp;	Conhecimento de terminal no Windows
+ 	Conhecimento de terminal no Windows
 
-&nbsp;	Complementa projetos mais complexos (como os feitos no Kali Linux)
+ 	Complementa projetos mais complexos (como os feitos no Kali Linux)
 
 
 
 \#  Licença
 
-&nbsp;	MIT — Sinta-se à vontade para usar, estudar, modificar e compartilhar.
-
-
+ 	MIT — Sinta-se à vontade para usar, estudar, modificar e compartilhar.
 
