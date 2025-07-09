@@ -56,7 +56,7 @@
 
 
 
-!\[Execução frutas](exercicios-python-basico/imagens/frutas.png)
+!\[Execução frutas](imagens/frutas.png)
 
 
 
@@ -80,7 +80,7 @@ Execução real:
 
 
 
-!\[Execução frutas](exercicios-python-basico/imagens/contador.png)
+!\[Execução frutas](imagens/contador.png)
 
 
 
@@ -102,7 +102,7 @@ Execução real:
 
 
 
-!\[Execução frutas](exercicios-python-basico/imagens/letras.png)
+!\[Execução frutas](imagens/letras.png)
 
 
 
