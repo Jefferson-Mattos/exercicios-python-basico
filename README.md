@@ -56,7 +56,7 @@
 
 
 
-!\[Execução frutas](https://raw.githubusercontent.com/Jefferson-Mattos/exercicios-python-basico/main/imagens/frutas.png)
+!\[Execução frutas](https://raw.githubusercontent.com/Jefferson-Mattos/exercicios-python-basico/main/imagens/execucao\_frutas.png)
 
 
 
@@ -80,7 +80,7 @@ Execução real:
 
 
 
-!\[Execução while](https://raw.githubusercontent.com/Jefferson-Mattos/exercicios-python-basico/main/imagens/contador.png)
+!\[Execução while](https://raw.githubusercontent.com/Jefferson-Mattos/exercicios-python-basico/main/imagens/execucao\_contador.png)
 
 
 
@@ -102,9 +102,7 @@ Execução real:
 
 
 
-!\[Execução letras](https://raw.githubusercontent.com/Jefferson-Mattos/exercicios-python-basico/main/imagens/letras.png)
-
-
+!\[Execução letras](https://raw.githubusercontent.com/Jefferson-Mattos/exercicios-python-basico/main/imagens/execucao\_letras.png)
 
 \# Tecnologias e Ambiente
 
