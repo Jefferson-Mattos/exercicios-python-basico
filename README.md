@@ -56,7 +56,7 @@
 
 
 
-!\[Execução frutas](https://github.com/Jefferson-Mattos/exercicios-python-basico/blob/main/imagens/frutas.png?raw=true)
+!\[Execução frutas](https://github.com/Jefferson-Mattos/exercicios-python-basico/blob/main/imagens/frutas.png)
 
 
 
@@ -80,7 +80,7 @@ Execução real:
 
 
 
-!\[Execução while](https://github.com/Jefferson-Mattos/exercicios-python-basico/blob/main/imagens/while.png?raw=true)
+!\[Execução while](https://github.com/Jefferson-Mattos/exercicios-python-basico/blob/main/imagens/contador.png)
 
 
 
@@ -102,7 +102,7 @@ Execução real:
 
 
 
-!\[Execução letras](https://github.com/Jefferson-Mattos/exercicios-python-basico/blob/main/imagens/letras.png?raw=true)
+!\[Execução letras](https://github.com/Jefferson-Mattos/exercicios-python-basico/blob/main/imagens/letras.png)
 
 
 
